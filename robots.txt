@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aizr1.github.io/blog/sitemap.xml
